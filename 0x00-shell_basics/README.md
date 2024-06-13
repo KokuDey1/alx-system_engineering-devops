@@ -5,3 +5,4 @@ Display current directory contents in a long format
 Display list of hidden files
 List files and digits
 Directory /tmp/my_first_directory created.
+Move Betty to tmp/my_first_directory
