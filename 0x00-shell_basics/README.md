@@ -9,3 +9,4 @@ Move Betty to tmp/my_first_directory
 Deleted betty from /tmp/my_first_directory
 Deleting an empty directory
 Change to Previous directory Script
+This script lists all files, including hidden ones, in the current directory, parent directory, and the /boot directory in long format.
