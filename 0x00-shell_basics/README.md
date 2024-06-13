@@ -6,3 +6,4 @@ Display list of hidden files
 List files and digits
 Directory /tmp/my_first_directory created.
 Move Betty to tmp/my_first_directory
+Deleted betty from /tmp/my_first_directory
