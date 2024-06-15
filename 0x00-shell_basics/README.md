@@ -11,3 +11,4 @@ Deleting an empty directory
 Change to Previous directory Script
 This script lists all files, including hidden ones, in the current directory, parent directory, and the /boot directory in long format.
 Get the type of the file iamafile in the /tmp directory
+To create a symbolic link in the current working directory
