@@ -14,3 +14,4 @@ Get the type of the file iamafile in the /tmp directory
 To create a symbolic link in the current working directory
 a script that copies all HTML files from the current working directory to the parent directory, but only if the files do not exist in the parent directory or are newer than the existing versions
 a script that moves all files beginning with an uppercase letter from the current working directory to the directory /tmp/u
+script that deletes all files in the current working directory that end with the character ~
