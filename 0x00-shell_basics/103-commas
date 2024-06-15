@@ -1,2 +1,2 @@
 #!/bin/bash
-(ls -A -p | grep -E '^\.'; ls -A -p | grep -Ev '^\.' | sort -V) | paste -sd, -
+ls -amvp
