@@ -6,3 +6,4 @@ A script that creates an empty file
 A script that adds execute permission to the owner of a file
 A script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 A script that adds execution permission to the owner, the group owner and the other users, to the file
+a script that sets the permission to the file
